@@ -1,4 +1,4 @@
-package com.boostmytool.beststore.models;
+package com.boostmytool.bookstore.models;
 import org.springframework.web.multipart.MultipartFile;
 import jakarta.validation.constraints.*;
 public class ProductDto {

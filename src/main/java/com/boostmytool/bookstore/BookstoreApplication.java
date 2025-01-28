@@ -1,13 +1,13 @@
-package com.boostmytool.beststore;
+package com.boostmytool.bookstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BeststoreApplication {
+public class BookstoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BeststoreApplication.class, args);
+		SpringApplication.run(BookstoreApplication.class, args);
 	}
 
 }

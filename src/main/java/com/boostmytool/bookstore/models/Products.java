@@ -1,4 +1,4 @@
-package com.boostmytool.beststore.models;
+package com.boostmytool.bookstore.models;
 
 import jakarta.persistence.*;
 

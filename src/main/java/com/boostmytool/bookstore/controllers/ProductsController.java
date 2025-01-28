@@ -1,13 +1,13 @@
-package com.boostmytool.beststore.controllers;
+package com.boostmytool.bookstore.controllers;
 
 import java.io.InputStream;
 import java.nio.file.*;
 import java.util.Date;
 import java.util.List;
 
-import com.boostmytool.beststore.models.ProductDto;
-import com.boostmytool.beststore.models.Products;
-import com.boostmytool.beststore.services.ProductsRepository;
+import com.boostmytool.bookstore.models.ProductDto;
+import com.boostmytool.bookstore.models.Products;
+import com.boostmytool.bookstore.services.ProductsRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
